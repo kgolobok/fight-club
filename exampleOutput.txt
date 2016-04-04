@@ -1,0 +1,83 @@
+----- Begin Round 1 -----
+Edward Norton does 5 damage to Tyler Durden
+Tyler Durden does 6 damage to Edward Norton
+Edward Norton health: 94
+Tyler Durden health: 95
+
+----- Begin Round 2 -----
+Edward Norton does 9 damage to Tyler Durden
+Tyler Durden does 5 damage to Edward Norton
+Edward Norton health: 89
+Tyler Durden health: 86
+
+----- Begin Round 3 -----
+Edward Norton does 9 damage to Tyler Durden
+Tyler Durden does 9 damage to Edward Norton
+Edward Norton health: 80
+Tyler Durden health: 77
+
+----- Begin Round 4 -----
+Edward Norton does 6 damage to Tyler Durden
+Tyler Durden does 7 damage to Edward Norton
+Edward Norton health: 73
+Tyler Durden health: 71
+
+----- Begin Round 5 -----
+Edward Norton does 7 damage to Tyler Durden
+Tyler Durden does 5 damage to Edward Norton
+Edward Norton health: 68
+Tyler Durden health: 64
+
+----- Begin Round 6 -----
+Edward Norton does 5 damage to Tyler Durden
+Tyler Durden does 6 damage to Edward Norton
+Edward Norton health: 62
+Tyler Durden health: 59
+
+----- Begin Round 7 -----
+Edward Norton does 6 damage to Tyler Durden
+Tyler Durden does 5 damage to Edward Norton
+Edward Norton health: 57
+Tyler Durden health: 53
+
+----- Begin Round 8 -----
+Edward Norton does 10 damage to Tyler Durden
+Tyler Durden does 6 damage to Edward Norton
+Edward Norton health: 51
+Tyler Durden health: 43
+
+----- Begin Round 9 -----
+Edward Norton does 7 damage to Tyler Durden
+Tyler Durden does 8 damage to Edward Norton
+Edward Norton health: 43
+Tyler Durden health: 36
+
+----- Begin Round 10 -----
+Edward Norton does 10 damage to Tyler Durden
+Tyler Durden does 6 damage to Edward Norton
+Edward Norton health: 37
+Tyler Durden health: 26
+
+----- Begin Round 11 -----
+Edward Norton does 9 damage to Tyler Durden
+Tyler Durden does 10 damage to Edward Norton
+Edward Norton health: 27
+Tyler Durden health: 17
+
+----- Begin Round 12 -----
+Edward Norton does 7 damage to Tyler Durden
+Tyler Durden does 10 damage to Edward Norton
+Edward Norton health: 17
+Tyler Durden health: 10
+
+----- Begin Round 13 -----
+Edward Norton does 6 damage to Tyler Durden
+Tyler Durden does 8 damage to Edward Norton
+Edward Norton health: 9
+Tyler Durden health: 4
+
+----- Begin Round 14 -----
+Edward Norton does 8 damage to Tyler Durden
+
+======== GAME OVER ========
+Edward Norton wins against Tyler Durden with 9 health remaining!
